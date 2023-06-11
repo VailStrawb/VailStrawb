@@ -1,4 +1,4 @@
-<img src="welcome_picture.png" alt="альтернативный текст">
+<img src="welcome_picture.png">
 
 <!--
 **VailStrawb/VailStrawb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

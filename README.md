@@ -1,4 +1,3 @@
-### Hi there 👋
 <img src="welcome_picture.png" alt="альтернативный текст">
 
 <!--

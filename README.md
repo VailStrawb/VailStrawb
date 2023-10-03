@@ -26,7 +26,7 @@
 - 💰 Flutter Developer: Bank app for taxi drivers
 - 🛴 Junior Flutter Developer: Scooters rent app
 - 🌳 Intern Flutter Developer: Family Tree app
-- 
+  
 ***
 
 ### 🤝 Connect to me!

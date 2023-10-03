@@ -1,5 +1,7 @@
 <img src="welcome_picture.png">
 
+### Hello, world 🪐
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=VailStrawb&label=Profile%20views&color=blue&style=for-the-badge" alt="VailStrawb" /><a href="https://t.me/VailStrawb_writes"> <img src="https://img.shields.io/badge/VailStrawb%20Writes-Blog-2CA5E0?style=for-the-badge" /></a> </p>
 
 - 🔮 I’m currently working with a good team and growing as developer
 - 🌎 Working on my TravelApp project

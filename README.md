@@ -6,7 +6,7 @@
 - 🔎 I’m currently looking for a cool job (Flutter Development).
 - 💌 Working on my secret project :)
 - 🔮 I’m also actively learning about Flutter.
-- 🌺 I have my IT blog for helping women to start career, which you can find on <a href="https://instagram.com/flutter_dev_girl?igshid=NzZlODBkYWE4Ng==">Instagram</a>.
+- 🌺 I have my IT blog for helping women to believe in themselves and start a career, which you can find on <a href="https://instagram.com/flutter_dev_girl?igshid=NzZlODBkYWE4Ng==">Instagram</a>.
 - 🎯 Goals: To become a professional Senior Flutter Developer
 - 🤪 Fun fact: I like frogs a lot 🐸 They make me feel happy!
 

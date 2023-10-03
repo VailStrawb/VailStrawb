@@ -1,4 +1,4 @@
-<img src="welcome_picture.png">
+<img src="welcome_picture_dash.png">
 
 ### Hello, world 🪐
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=VailStrawb&label=Profile%20views&color=yellow&style=for-the-badge" alt="VailStrawb" /><a href="https://instagram.com/flutter_dev_girl?igshid=NzZlODBkYWE4Ng=="> <img src="https://img.shields.io/badge/VailStrawb%20Writes-Blog-2CA5E0?style=for-the-badge" /></a> </p>

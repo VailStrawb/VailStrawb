@@ -3,9 +3,12 @@
 ### Hello, world 🪐
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=VailStrawb&label=Profile%20views&color=yellow&style=for-the-badge" alt="VailStrawb" /><a href="https://instagram.com/flutter_dev_girl?igshid=NzZlODBkYWE4Ng=="> <img src="https://img.shields.io/badge/VailStrawb%20Writes-Blog-2CA5E0?style=for-the-badge" /></a> </p>
 
-- 🔮 I’m currently working with a good team and growing as developer
-- 🌎 Working on my TravelApp project
-- 🐸 Enjoynig my best life
+- 🔎 I’m currently looking for a cool job (Flutter Development).
+- 💌 Working on my secret project :)
+- 🔮 I’m also actively learning about Flutter.
+- 🌺 I have my IT blog to help women to start career, which you can find on <a href="https://instagram.com/flutter_dev_girl?igshid=NzZlODBkYWE4Ng==">Instagram</a>.
+- 🎯 Goals: To become a professional Senior Flutter Developer
+- 🤪 Fun fact: I like frogs a lot 🐸 They make me feel happy!
 
 ***
 

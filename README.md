@@ -7,7 +7,7 @@
 - 💌 Working on my secret project :)
 - 🔮 I’m also actively learning about Flutter.
 - 🌺 I have my IT blog for helping women to believe in themselves and start a career, which you can find on <a href="https://instagram.com/flutter_dev_girl?igshid=NzZlODBkYWE4Ng==">Instagram</a>.
-- 🎯 Goals: To become a professional Senior Flutter Developer
+- 🎯 Goals: To become a professional Senior Flutter Developer and visit every country on the planet.
 - 🤪 Fun fact: I like frogs a lot 🐸 They make me feel happy!
 
 ***
